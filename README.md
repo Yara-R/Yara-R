@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Yara-R
+- 👀 I’m interested in Data Science and Cyber Security
+- 🌱 I’m currently learning Computer Science, Data Science, Coding
