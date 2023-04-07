@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Yara-R
-- 👀 I’m interested in Data Science, Cyber Security and Quantum Computing
-- 🌱 I’m currently learning Computer Science, Data Science, Quantum Computing
+- 👀 I’m interested in Quantum Computing and software engineering
+- 🌱 I’m currently in college, my Major is Computer Science
+- 🤝 Let's connect on linkedIn https://www.linkedin.com/in/yara-rodrigues-inácio-b14203236/
