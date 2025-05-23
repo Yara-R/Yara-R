@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yara Rodrigues
-- 👩🏻‍💻 I’m a Software Engineer
-- 🌱 Currently in college as a Computer Science major
+- 👩🏻‍💻 I’m a Data Scientist
+- 🎓 Computer Science Major
 - 🧐 Interested in Quantum Computing
 - 🤝 Let's connect
 
